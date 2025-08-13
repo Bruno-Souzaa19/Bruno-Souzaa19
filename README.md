@@ -19,20 +19,5 @@
 - **Áreas de interesse:**  
   - Back-End  
     
----
 
-### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dark)
-
----
-
-### 📫 Contato
-
-📧 brunoramosdesouzaadev@gmail.com 
-
-LinkedIn -> www.linkedin.com/in/bruno-ramos-de-souza-960914352
-
----
-
-*Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.* 🚀
