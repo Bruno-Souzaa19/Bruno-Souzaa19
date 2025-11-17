@@ -9,15 +9,15 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens e stacks:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
 - **Banco de Dados:**  
   ![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white)
 
 - **Áreas de interesse:**  
   - Back-End  
-    
-
-
+  - Desenvolvimento de APIs REST  
+  - Arquitetura com Spring Boot  
+  - Integração com bancos de dados  
